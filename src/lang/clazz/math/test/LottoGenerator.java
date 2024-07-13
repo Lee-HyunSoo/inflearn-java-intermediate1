@@ -1,4 +1,4 @@
-package lang.math.test;
+package lang.clazz.math.test;
 
 import java.util.Random;
 

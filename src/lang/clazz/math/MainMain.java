@@ -1,4 +1,4 @@
-package lang.math;
+package lang.clazz.math;
 
 public class MainMain {
 

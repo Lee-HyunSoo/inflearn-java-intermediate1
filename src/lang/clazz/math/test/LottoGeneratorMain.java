@@ -1,4 +1,4 @@
-package lang.math.test;
+package lang.clazz.math.test;
 
 public class LottoGeneratorMain {
 
